@@ -1,0 +1,27 @@
+
+                       .-----------------------------.
+                      (     Roland-X50 Sample Pack    )
+                       `-----------------------------'
+                              sampled by Primal
+
+                                   2/18/96
+
+
+ Here are a bunch of samples from a X50.  I used my GUS MAX and Fast Tracker
+ 2.05 to record and edit all these samples.  Sorry for the terrible sound
+ quality, apparently the sound source isn't good at all.  All samples are in
+ .iff format, but you can use any sample converters to convert to desire
+ format.  Most samples range from 70K - 200K, so I guess it's a pretty
+ unfortunate for those S3M users out there.
+
+ The sample pack(s) can be found on ftp.cdrom.com and or my homepage,
+ http://www.csun.edu/~hbcsc386, so what out for more releases soon.
+
+ If you wish to contact me for any reason, comment, suggestion, or whatever:
+ I can be reach at --> hbcsc386@dewey.csun.edu (try primal@acid.org if the
+ other has problem, with it usually does).
+
+ signing off...
+
+
+ -primal / nostalgia

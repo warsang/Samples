@@ -1,0 +1,43 @@
+Description: High quality samples for making MOD, S3M etc songs
+Keywords: Percussion samples 16-bit 44.1kHz .wav format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+Uploaded-to: ftp.funet.fi (13 Feb 1995)
+Suggested location : /msdos/sounds/wav
+
+Hello everyone.
+
+This is the third of a series of samples extracted
+from the Turtle Beach Multisound Proteus 1/XR synthesizer.
+Whereas the first and second collections (proteus1.zip and 
+proteus2.zip) were a collection of melodic as well as 
+percussion samples at 22kHz/16 bits, this one is percussion 
+only at 44.1kHz/16 bits.
+
+As with the first collections, my goal was to create some 
+clean samples for use in making MODs, S3Ms, MTM's etc. 
+Based on some good feedback (thanks Jester :-) I kept all 
+samples very basic (no combos or riffs) for maximum 
+usefulness. The quality is also better due to the fact 
+that the sampling was done locally on the multisound
+as opposed to using a seperate PC. This has yielded some 
+very quiet and crisp samples compared to the first sets of
+samples.
+
+Although the samples are in .wav format, they can be ported
+to .smp or almost any other using a program such as Goldwave.
+
+If there is a better way that I should capture them let me know.
+
+Technical Specs:
+
+All samples are 44.1kHz, 16 bit and were created by playing
+different percussion notes on the multisound, and capturing 
+them live to RAM and then to disk. Post editing was done to 
+optimize gain and remove the dead space.
+
+Hope you find them useful.
+
+Hussam Eassa
+eassa@earth.execpc.com
+

@@ -1,0 +1,76 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                         Big Series I - 44.1kHz 16 bit!
+                          MORE ROLAND JUNO 106 SAMPLES
+                      With bonus drum samples from Typhoon!
+                            Email: cgould@gate.net
+
+SAMPLES TAKEN FROM:
+Roland Juno 106 - Analog-based synthesizer with thundering bass
+Yamaha TX16W - Sampler with Typhoon OS; the modulation makes synthesis
+               possible.
+
+By popular demand, the Juno pack is back! And this time, we've got a lot
+of resonance for all of you techno guys out there. (: We've got a couple
+of samples of resonant acid-like bass, plus a lot of other goodies with
+booms, distortion, LFOs, etc. There are 25 additional Juno sounds here,
+recorded at 44.1kHz, 16 bit on a Pro Audio Spectrum 16 with the sample
+point at C3 unless otherwise noted. Sorry, no loop points or envelopes
+are provided. Sample notes are noted below each sample. Be sure to check
+out the Typhoon TR-808-like kit as well.
+
+Enjoy these samples. (:
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+
+
+
+SOUNDS FROM THE JUNO 106: (Note: Default sample point is C3)
+
+The letter indicates which zip file the sample is in.
+(ie, A indicates the sample can be found in the file swjuno2a.zip)
+
+Enjoy the samples!
+
+Sound name  zip Patch   Notes
+-----------------------------------------------------------------------
+juno2-1.wav  C  A58     Resonant bassline with chorus on (multisampled
+                        at G1)
+juno2-2.wav  G  A58     Resonant synth with chorus on (multisampled)
+juno2-3.wav  D  A47     Resonant bassline with no chorus (multisampled
+                        at G1)
+juno2-4.wav  H  A47     Resonant synth with no chorus (multisampled)
+juno2-5.wav  I  A21     Acid bass played with no resonance
+juno2-6.wav  E  A21     The same sequence with resonance at the end
+juno2-7.wav  A  A21     Freelance playing with resonance and frequency
+                        twiddling
+juno2-8.wav  B  A38     Heavy bass with a touch of resonance
+juno2-9.wav  A  A88     Noise sound distorted and compressed
+juno2-10.wav L  B27     Heavy bass, distorted. Multisampled.
+juno2-11.wav H  A44     LFO wave go down then up.
+juno2-12.wav I  A72     Resonant little pad sound.
+juno2-13.wav L  B77     Howling wind sound, two samples (C5 and multi)
+juno2-14.wav M  B21     Boom bass sound and a little Schulze in the end.
+                        Sampled at C5 but doesn't matter. (:
+juno2-15.wav F  B83     Nice little phasing pad sound
+juno2-16.wav F  B36     High ambient pad sound, sampled at C4
+juno2-17.wav K  A82     White noise sounding note, sampled at C1 and C3
+juno2-18.wav C  A76     Dance hit
+juno2-19.wav C  A31     Short hit, sampled at C2, C3, C4
+juno2-20.wav D  A28     Harder short hit, sampled at C2, C3, C4
+juno2-21.wav J  A21     Distorted, resonance, frequency twiddling -
+                        nice. (:
+juno2-22.wav B  A65     Wow-synth sound. C3 and C4 - two samples, clean
+                        and distorted both.
+juno2-23.wav G  A25     Distored. Crunch and a ping. C0 and C4.
+juno2-24.wav N  A63     Noisy, LFO resonance wave. 30 seconds
+juno2-25.wav J  B84     An ordinary techno bass type of sound. C3 and C1.
+
+TOTAL ROLAND JUNO 106 SAMPLES: 25 (21875624 bytes)
+-----------------------------------------------------------------------

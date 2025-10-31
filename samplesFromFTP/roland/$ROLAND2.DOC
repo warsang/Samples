@@ -1,0 +1,114 @@
+Description: High quality samples for making MOD, S3M etc songs
+Keywords: Percussion samples 16-bit 44.1kHz .wav format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+Uploaded-to: ftp.funet.fi (11 July 1995)
+Suggested location : pub/sounds/wav/samples
+
+Hello everyone.
+
+This is the second hopefully of a series of samples extracted
+from the Roland SCC-1 Sound Canvas MIDI synthesizer.
+ 
+As with the earlier sample collections (proteus1, 2, 3 and 
+Roland1), my goal was to create some clean samples for use 
+in making MODs, S3Ms, MTM's etc. 
+
+This collection contains the complete set of general MIDI (GM) 
+percussion instruments. I hope to sample more General Standard 
+(GS) percussion instruments as well as more melodic ones in future
+Roland sample collections.
+
+Although the samples are in .wav format, they can be ported
+to .smp, raw or almost any other using a program such as Goldwave.
+
+If there is a better way that I should capture them let me know.
+
+Technical Specs:
+
+All samples are 44.1kHz, 16 bit and were created by playing
+different percussion notes on the Roland SCC-1, and capturing 
+them live using a Turtle Beach Multisound. Post editing was done 
+to optimize gain and remove the dead space.
+
+This archive contains the following samples:
+
+File Name        Size         General MIDI Name
+------------     -------      --------------------
+
+AGOGOHI  WAV       9,626      High Agogo
+AGOGOLO  WAV      12,778      Low Agogo
+BELLTREE WAV      65,948      Bell Tree
+BONGOHI  WAV       9,778      High Bongo
+BONGOLO  WAV       8,618      Low Bongo
+CABASA   WAV       5,926      Cabasa
+CASTINET WAV       3,382      Castinets
+CLAPS    WAV      18,582      Handclap
+CLAVES   WAV       4,686      Claves
+CONGAHI1 WAV       5,198      Mute High Conga
+CONGAHI2 WAV      19,860      Open High Conga
+CONGALO  WAV      25,844      Low Conga
+COWBELL  WAV      10,590      Cow Bell
+CUICA1   WAV      18,326      Mute Cuica
+CUICA2   WAV      25,458      Open Cuica
+CYMBELL  WAV     159,978      Ride Bell
+CYMCHINA WAV     193,330      Chinese Cymbal
+CYMCRSH1 WAV      72,324      Crash Cymbal 1
+CYMCRSH2 WAV      72,522      Crash Cymbal 2
+CYMRIDE1 WAV      72,324      Ride Cymbal 1
+CYMRIDE2 WAV      72,122      Ride Cymbal 2
+CYMSPLSH WAV     139,120      Splash Cymbal
+GUIRO1   WAV       4,048      Short Guiro
+GUIRO2   WAV      26,198      Long Guiro
+HIGHQ    WAV       2,820      High Q
+HIHATCL  WAV       8,202      Closed High Hat
+HIHATOP  WAV     164,168      Open High Hat
+HIHATPD  WAV       6,626      Pedal High Hat
+JINGLES  WAV      38,898      Jingle Bell
+KICK1    WAV       8,122      Acoustic Bass
+KICK2    WAV       9,494      Bass Drum 1
+MARACAS  WAV       6,612      Maracas
+METBELL  WAV      94,272      Metronome Bell
+METCLICK WAV       6,874      Metal Click 
+SCRATCH1 WAV      11,278      Scratch Push
+SCRATCH2 WAV      16,808      Scratch Pull
+SHAKER   WAV       3,392      Shaker
+SLAP     WAV      19,692      Slap
+SNARE1   WAV      24,426      Acoustic Snare
+SNARE2   WAV      18,102      Electric Snare
+SQRCLICK WAV         356      Square Click
+STICKRIM WAV       6,178      Side Stick
+STICKS   WAV      17,954      Sticks
+SURDO1   WAV      18,816      Mute Surdo
+SURDO2   WAV     146,152      Open Surdo
+TAMBORIN WAV      15,400      Tambourine
+TIMBALEH WAV      23,402      High Timbale
+TIMBALEL WAV      29,640      Low Timbale
+TOMHI1   WAV      42,346      High Tom
+TOMHI2   WAV      42,740      High-Mid Tom
+TOMLO1   WAV      69,368      High Floor Tom
+TOMLO2   WAV      84,388      Low Floor Tom
+TOMMID1  WAV      50,776      Low-Mid Tom
+TOMMID2  WAV      63,582      Low Tom
+TRIANGL1 WAV      12,070      Mute Triangle
+TRIANGL2 WAV     152,888      Open Triangle
+VIBSLAP  WAV      99,368      VibraSlap
+WHISTLE1 WAV       8,210      Short Whistle
+WHISTLE2 WAV      33,472      Long Whistle
+WOODBLK1 WAV       7,792      High Wood Block
+WOODBLK2 WAV      10,782      Low Wood Block
+ROLAND2  DOC       4,216      This Document
+
+
+Hope you find them useful.
+
+Hussam Eassa
+
+--
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=
+| Sam                       |
+| eassa@earth.execpc.com    |
+| Milwaukee, Wisconsin  USA |
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+

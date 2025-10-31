@@ -1,0 +1,4 @@
+sampled by: Myno / d-Liquid
+   nr.smp : 13 files
+   samples: Roland W-30 instruments
+    source: 1993 3.5 "sample,discs"

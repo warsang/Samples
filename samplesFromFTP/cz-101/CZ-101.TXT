@@ -1,0 +1,54 @@
+CZ-101 samples by pfister
+pfister@connectnet.com
+
+About the synth
+---------------
+I got this synth about a month ago for about $100.  Dirt cheap, and very
+common at that price too.  Go git one.
+
+It's digital, 8 possible waveforms (saw, square, etc.. including three
+rez-like waves).  Two oscillators, each with control for pitch,
+wave, and amplitude in the form of 8 stage envelopes.
+
+The wave envelope morphs between the basic wave and a sine wave.  This
+sounds much like the closing of a lowpass filter.
+
+Then there's the ring modulator - this really adds a lot of possible
+strangeness.
+
+
+About the samples
+-----------------
+They're raw, straight from the line out.  I suggest you postprocess them
+in sound forge or a similar program.  
+
+Many are poor quality, all are 8-bit. If you want them in higher quality, 
+write to me.  I should be able to recreate the patch and sample it again
+for you with little trouble.
+
+I looped them, but the loop points were lost in conversion.  The end of
+file is always the end of the loop I had.  Both forward and ping pong loops
+were used.
+
+If you want more, I'll probably be uploading another pack or two depending
+on how productive I feel.
+
+bass1.wav    These are a bitch to tune
+bass2.wav
+bass3.wav
+
+bd1.wav      808-like bass kicks
+bd2.wav
+
+lead1.wav    Leads - some boring, some very strange
+lead2.wav
+lead3.wav
+lead4.wav
+lead5.wav
+lead6.wav
+
+sweep1.wav   Filter sweeps of many different timbres
+sweep2.wav
+sweep3.wav
+sweep4.wav
+sweep5.wav

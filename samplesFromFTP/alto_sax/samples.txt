@@ -1,0 +1,31 @@
+                          "beek's Eb alto sax samples"
+                               volume 1?..
+
+  ========================================================================
+
+  well.. i haven't much to say but "enjoy".. =)
+
+  as we all know, samples have a sweet range.. especially non-synth ones.
+  so i decided to sample the main notes of the sax (c, g, d#)... i've
+  sampled my sax before, but failed in a way that i realized i couldnt
+  just sample low, mid, and hi c.. =) so tonight (3/26/97, at around 8:15pm)
+  i sampled my Eb alto again, and decided to release it ... enjoy
+
+  ========================================================================
+
+alto_sax.wav: low c, short
+alto_sax1.wav: mid c, short
+alto_sax2.wav: low c, short <a bit past the clip range,
+                             shorter than alto_sax2.wav>
+alto_sax3.wav: hi c, short
+alto_sax4.wav: mid a#, short.. <a odd "portamento"...> =)
+alto_sax5.wav: hi g, short.. <porta down at the end>
+alto_sax6.wav: mid g, long
+alto_sax7.wav: mid g, long <a "softer" version of alto_sax6.wav>
+alto_sax8.wav: low d#, long
+alto_sax9.wav: mid c, long
+alto_saxa.wav: mid d#, long
+alto_saxb.wav: hi g, semi-long
+alto_saxc.wav: hi g, long
+alto_saxd.wav: hi c, long
+

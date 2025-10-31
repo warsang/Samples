@@ -1,0 +1,33 @@
+This is the text file that accompanied the original PROPHET.KRZ file, the file 
+where these sounds come from.
+----
+Greetings :)
+Enclosed in this zip are some prophet samples.
+Most of them are multi samples; all were converted form other samples
+available on the internet.
+
+All of the programs (almost all anyway) use DS for Resonance and Foot Controller
+for Envelope sweep -- on some programs, you wont get much of a sound (Fleudian
+Trip for example) if the controllers arent set to a fun place.
+
+Some of the setups and programs use layers from the contemporary rom; 
+you might not here these layers; additionally a few setups didnt get saved with
+some of the programs they use, so you'll miss out on "LA Grande" and a few other
+contemp programs, but heck, add them or your favorite piano into the setup mixes :)
+
+All of these samples were tuned by me, since they didnt convert with the tuning
+offsets intact; I didnt use the best tuner in the world for this, so they may
+be off by a cent or two -- you can fix it if you want.
+
+Lastly, the keemaps 1BrsPhet, 2BrsPhet etc are variations of the same samples;
+just testing out what sample ranges worked best.
+
+Let me know what you think of these .. I have some Moog and TB basses I might upload
+if theres interest..
+
+To get these onto your machine, rename them as PROPHET.K25 and load them
+in one at a time...If you have a K2000 you'll need the latest OS to read them.
+Peace,
+	Jordan
+
+jordan@cruzio.com

@@ -1,0 +1,79 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                         Big Series I - 44.1kHz 16 bit!
+                        PART 3 OF 4: YAMAHA DX27 SAMPLES
+                            Email: cgould@gate.net
+
+SAMPLES TAKEN FROM:
+Korg X5 - A classy little sample-based synthesizer.
+Roland D50 - The king of the late 80s - LA synthesis and PCM samples
+Yamaha DX27 - 4-op FM, the little cousin of the DX7
+Roland Juno 106 - Analog-based synthesizer with thundering bass
+
+This is the first sample pack made for those with samplers, not those
+who simply are trackers. 10 samples are in this pack in total, 25 from
+each keyboard (sorry, there's no room for more! You don't want the pack
+to be THAT big, do you? (: ). All samples are default sampled at C3
+unless noted in the text, and recorded at 44.1khZ, 16 bit on a Pro Audio
+Spectrum 16. Some of these samples you won't find anywhere else, btw. (:
+Sorry, no loop points or envelopes are provided. Sample notes are noted
+below each sample.
+
+I'm probably not going to do anymore "little" sample packs; these will
+have to do, eh? (:
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+SOUNDS FROM THE YAMAHA DX27: (Note: Default sample point is C3)
+
+All internal sounds are CUSTOM! As usual, the letter indicates which zip
+file the sample is in.
+
+Sound name(zip) Patch                   Notes
+-----------------------------------------------------------------------
+dx27-01.wav F   PA8 - New Electro       Classic FM electronic piano
+                                        sound
+dx27-02.wav E   PB1 - Solid Bass        Nice bass sound; popular in some
+                                        circles; sampled at C3, C2, and
+                                        C5
+dx27-03.wav E   PB2 - Synth Bass        Synthy bass sound; sampled at
+                                        C2 and C3
+dx27-04.wav F   PB5 - Fretless          Nice, low, nonsynth bass;
+                                        sampled at C2
+dx27-05.wav F   PB9 - Powerbrass        Wavy synthy brass sound
+dx27-06.wav F   PB13 - Orchestra        FM strings
+dx27-07.wav E   PC1 - Easy Synth        Nice synth with attack; sampled
+                                        at C2 and C4
+dx27-08.wav E   PC4 - Metal Keys        Wavery neat little synth
+dx27-09.wav A   PC6 - S/H Synthesizer   A 25 second sample of this S/H
+                                        synth loop sampled at C2
+dx27-10.wav F   PC12 - Schmoo           Lead schmoo synthesizer
+dx27-11.wav D   PB16+ - Brass 2         Nice soft brass pad; apply echo
+                                        and low decay for best effect
+dx27-12.wav G   PD13+ - Tubular Bells   FM's famous bell sound
+dx27-13.wav A   PD17+ - Waves           Wavery LFO sound; sampled at C2
+dx27-14.wav D   PD18+ - Wind            Wind noise sound
+dx27-15.wav C   PD23+ - Space Talk      FM sparkles and space noise;
+                                        apply portamento to patch
+dx27-16.wav G   PD15 - FM SQUARE        Square beep
+dx27-17.wav E   PD18 - LFO Noise        As it says (FM imitation of)
+dx27-18.wav F   PD21+ - Space Chime     Nice sounding chimes
+dx27-19.wav B   I10 - Interfere         FM going haywire; radio tuning
+                                        sounds. Sampled at many points,
+                                        25 second sound bite
+dx27-20.wav B   I11 - Doogie            Lead-like synth
+dx27-21.wav D   I23 - Jarre             Nice FM sweep patch; recorded at
+                                        C1
+dx27-22.wav C   I13 - Neat Sound        Nice, soft bell-like synth
+dx27-23.wav C   I18 - Bells Combo       Detuned bell-like sound;
+                                        recorded at C2
+dx27-24.wav F   I19 - whoosh!           Whisper of noise
+dx27-25.wav F   I8 - Electric Triangle  A simple, electronic ping
+
+TOTAL YAMAHA DX27 SAMPLES: 25 (19992526 bytes)
+-----------------------------------------------------------------------

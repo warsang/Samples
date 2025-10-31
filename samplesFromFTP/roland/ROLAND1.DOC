@@ -1,0 +1,85 @@
+Description: High quality samples for making MOD, S3M etc songs
+Keywords: Melodic samples 16-bit 44.1kHz .wav format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+Uploaded-to: ftp.funet.fi (16 April 1995)
+Suggested location : /pub/sounds/wav/samples
+
+Hello everyone.
+
+This is the first hopefully of a series of samples extracted
+from the Roland SCC-1 Sound Canvas MIDI synthesizer.
+ 
+As with the earlier sample collections (proteus1, 2 and 3), 
+my goal was to create some clean samples for use in making 
+MODs, S3Ms, MTM's etc. 
+
+This collection is only melodic instruments. I hope to sample
+percussion instruments as well as more melodic ones in future
+Roland sample collections.
+
+Although the samples are in .wav format, they can be ported
+to .smp or almost any other using a program such as Goldwave.
+
+If there is a better way that I should capture them let me know.
+
+Technical Specs:
+
+All samples are 44.1kHz, 16 bit and were created by playing
+different percussion notes on the Roland SCC-1, and capturing 
+them live using a Turtle Beach Multisound. Post editing was done 
+to optimize gain and remove the dead space.
+
+This archive contains the following samples:
+
+File Name        Size         Description
+------------     -------      --------------------
+C1ACBASS WAV      72,070      C1 Acoustic Bass     
+C1ACGPNO WAV      88,018      C1 Acoustic Grand Piano
+C1ELGPNO WAV      94,010      C1 Electric Grand Piano
+C1FEBASS WAV      39,046      C1 Fingered Electric Bass
+C1FREBAS WAV      40,544      C1 Fretless Bass
+C1RHDPNO WAV      78,702      C1 Rhodes Piano
+C2TIMPNI WAV     131,286      C2 Timpani
+C3ACGPNO WAV      92,856      C3 Acoustic Grand Piano
+C3AGOGO  WAV      14,334      C3 Agogo
+C3BRASS  WAV      88,018      C3 Brass Section
+C3BRTNES WAV     153,802      C3 FX5 (Brightness)
+C3CELEST WAV     141,076      C3 Celesta
+C3DLCMER WAV      88,262      C3 Dulcimer
+C3ELGPNO WAV     133,618      C3 Electric Grand Piano
+C3FTH-LD WAV     132,978      C3 Lead 7 (Fifths)
+C3GOBLNS WAV     150,820      C3 FX 6 (Goblins)
+C3GTRFRT WAV      39,792      C3 Guitar Fret Noise
+C3HALO   WAV     158,298      C3 Pad 7 (Halo)
+C3HAMMND WAV      52,494      C3 Hammond Organ
+C3MARMBA WAV      88,500      C3 Marimba
+C3MELTOM WAV      88,174      C3 Melodic Tom
+C3NACGTR WAV      38,064      C3 Nylon Acoustic Guitar
+C3NEWAGE WAV     159,084      C3 Pad 1 (New Age)
+C3OOHS   WAV     107,496      C3 Voice Oohs
+C3PERC   WAV      52,780      C3 Percussive Organ
+C3RHDPNO WAV     109,432      C3 Rhodes Piano
+C3ROCK   WAV      68,700      C3 Rock Organ
+C3SAW-LD WAV      61,386      C3 Lead 2 (Saw Wave)
+C3SHAKUH WAV      97,116      C3 Shakuhachi
+C3SNTDRM WAV      71,872      C3 Synthetic Drum
+C3SQR-LD WAV      82,794      C3 Lead 1 (Square Wave)
+C3STRENS WAV     140,148      C3 String Ensamble 1
+C3TAIKO  WAV     150,834      C3 Taiko Drum
+C3TRMPET WAV      98,768      C3 Trumpet
+C3VIOLIN WAV     106,902      C3 Violin
+C3WODBLK WAV      64,706      C3 Wood Block
+ROLAND1  DOC       3,269      This Document.
+
+
+Hope you find them useful.
+
+Hussam Eassa
+
+--
+======================
+Sam
+eassa@earth.execpc.com
+======================
+

@@ -1,0 +1,73 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                         Big Series I - 44.1kHz 16 bit!
+                      PART 4 OF 4: ROLAND JUNO 106 SAMPLES
+                            Email: cgould@gate.net
+
+SAMPLES TAKEN FROM:
+Korg X5 - A classy little sample-based synthesizer.
+Roland D50 - The king of the late 80s - LA synthesis and PCM samples
+Yamaha DX27 - 4-op FM, the little cousin of the DX7
+Roland Juno 106 - Analog-based synthesizer with thundering bass
+
+This is the first sample pack made for those with samplers, not those
+who simply are trackers. 100 samples are in this pack in total, 25 from
+each keyboard (sorry, there's no room for more! You don't want the pack
+to be THAT big, do you? (: ). All samples are default sampled at C3
+unless noted in the text, and recorded at 44.1khZ, 16 bit on a Pro Audio
+Spectrum 16. Some of these samples you won't find anywhere else, btw. (:
+Sorry, no loop points or envelopes are provided. Sample notes are noted
+below each sample.
+
+I'm probably not going to do anymore "little" sample packs; these will
+have to do, eh? (:
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+SOUNDS FROM THE JUNO 106: (Note: Default sample point is C3)
+
+I have no idea how unique all of these voices are. The Juno's so easy to
+program, I think all of the factory patches are gone by now. (: Which is
+always a good thing...
+
+As always, the letter by the sound name indicates which zip file it is
+in (ie, A = sample is in s16junoa.zip)
+
+Sound name(zip) Patch   Notes
+-----------------------------------------------------------------------
+juno1.wav  D    A13     LFO-patch, decreasing LFO on release
+juno2.wav  D    B43     Rez up starts on key release; sampled at C2
+juno3.wav  C    A18     Standard high Juno patch
+juno4.wav  D    A22     High analog pad sound
+juno5.wav  D    A38     Neat synth, with filter and without filter
+                        applied
+juno6.wav  E    A37     High pingy synth
+juno7.wav  E    A36     Computer sustaining ping
+juno8.wav  A    A42     Synth sound with filter applied
+juno9.wav  E    A46     Soft lead sound
+juno10.wav E    A48     Ethnic-sounding ping
+juno11.wav C    A51     Filter bass, several samples
+juno12.wav C    A53     Cheesy analog violin
+juno13.wav E    A54     Nice bass sound; sample at C1 and C3
+juno14.wav D    A55     Computer rez sound
+juno15.wav F    A57     45 second rez synth loop; sampled at C2
+juno16.wav D    A71     Blip; sampled at C2
+juno17.wav C    A72     Synth followed by res; sampled at C2 (release
+                        causes res to fall down)
+juno18.wav D    A76     LFO sound; release causes LFO rise
+juno19.wav B    A84     Two LFO up-down samples
+juno20.wav B    B15     Standard analog pad with res applied at parts
+juno21.wav C    B18     Nice filter/LFO effect; sampled at C1
+juno22.wav D    B38     Noise crash; sampled at C2
+juno23.wav B    B53     Nice Juno bass with res applied; several samples
+                        at C1
+juno24.wav A    B57     Nice little synth with more filters applied
+juno25.wav D    B28     LFO with subgenerator applied
+
+TOTAL ROLAND JUNO 106 SAMPLES: 25 (19225790 bytes)
+-----------------------------------------------------------------------

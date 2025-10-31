@@ -1,0 +1,7 @@
+------------------------------------------------------------------[ dLq.rel.003 ]---------------
+d-Liquid samplepack releases.
+------------------------------------------------------------------------------------------------
+dLq001 - w30ins.zip       - Roland W30 "instuments"                 - Hornet Archive - 18/06/98
+dLq002 - w30prc.zip       - Roland W30 "latin/brasilian" percussion - Hornet Archive - 18/06/98
+dLq003 - techbase.zip     - Techno/rave bassline samples            - Hornet Archive - 21/06/98
+------------------------------------------------------------------------------------------------

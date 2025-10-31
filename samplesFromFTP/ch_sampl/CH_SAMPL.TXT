@@ -1,0 +1,24 @@
+These samples are ripped from the cd : unreleased & revamped
+They are the last 10/20 secs. of the numbers : 3,4,6
+
+They are recorded on 22050 khz at 8 bits (mono)
+
+Don't know if you may use them or not... (try it :)
+
+Filenames work like this :
+
+
+CH_(number of song)_(part).WAV
+
+So , song 6 and part 3 would be :
+
+CH_6_3.WAV
+
+Allright?
+
+cul8r
+
+(c) Buzz'96
+
+http://huizen.dds.nl/~uc2_ins
+buzz@cyber-wizard.com

@@ -1,0 +1,60 @@
+.WAV - High Quality Percussion Samples <eassa>
+
+Description: High quality samples for making MOD, S3M etc songs
+Keywords: Percussion samples 16-bit 44.1kHz .wav format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+Uploaded-to: ftp.Cdrom.com (26 May 1996)
+Suggested location : pub/demos/music/samples
+
+Hello everyone.
+
+This is a set of percussion samples extracted from the Korg Pro-Wave
+MIDI daughter board.
+ 
+As with the earlier sample collections (proteus1, 2, 3 and 
+Roland1, 2), my goal was to create some clean samples for use 
+in making MODs, S3Ms, MTM's etc. 
+
+This collection contains selected Percussion samples from both the 
+standard and power set. 
+
+Although the samples are in .wav format, they can be ported
+to .smp, raw or almost any other using a program such as Goldwave.
+
+Technical Specs:
+
+All samples are 44.1kHz, 16 bit and were created by playing
+different percussion notes on the Korg Pro-Wave DB, and capturing 
+them live using a Creative Labs AWE-32. Post editing was done 
+to optimize levels and remove the dead space.
+
+This archive contains the following samples:
+
+File Name        Size         General MIDI Name
+------------     -------      --------------------
+
+BONGOLOW.WAV     20,996         Low Bongo
+CABASA  .WAV     31,300         Cabasa
+CLSHIHAT.WAV     4,586          Closed HiHat
+COWBELL .WAV     37,922         Cow Bell
+CRSHCYM1.WAV     154,488        Crash Cymbal 1
+CRSHCYM2.WAV     122,410        Crash Cymbal 2
+HANDCLAP.WAV     31,056         Hand Clap
+KICKDRM1.WAV     24,492         Kick Drum 1
+OPNHIHAT.WAV     50,190         Open HiHat
+PDLHIHAT.WAV     6,340          Pedal HiHat
+RIDEBELL.WAV     46,146         Ride Bell
+RIDECYM1.WAV     69,440         Ride Cymbal 1
+RIDECYM2.WAV     73,662         Ride Cymbal 2
+SIDESTIK.WAV     31,056         Side Stick
+SNARE1P .WAV     69,278         Power Snare Drum 1
+SNARE2P .WAV     56,728         Power Snare Drum 2
+SPLSHCYM.WAV     69,440         Splash Cymbal
+TAMBORIN.WAV     20,420         Tamborine
+TMBALELO.WAV     25,434         Low Timbale
+VIBRSLAP.WAV     73,860         VibraSlap
+
+--
+        [ Sam Eassa - eassa@execpc.com - Milwaukee, Wisconsin USA ]
+

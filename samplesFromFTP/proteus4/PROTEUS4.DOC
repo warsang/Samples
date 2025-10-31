@@ -1,0 +1,74 @@
+Description: High quality samples for making MOD, S3M etc songs
+Keywords: Samples 16-bit 44.1kHz .wav format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+Uploaded-to: ftp.cdrom.com (26 May 1996)
+Suggested location : /demos/music/samples
+
+Hello everyone.
+
+This is the fourth and probably last in a series of samples 
+extracted from the Turtle Beach Multisound Proteus 1/XR 
+synthesizer. In this collection, I've tried to sample unique
+sounds native only to the proteus synthesizer and that cannot 
+be found in the General MIDI set. I'm hoping to provide the 
+means for the many composers out there to make some truly
+unique sounding mods.
+
+
+As with the previous collections, my goal was to create some 
+clean samples for use in making MODs, S3Ms, MTM's etc. 
+I kept all samples very basic (no combos or riffs) for maximum 
+usefulness. The quality is also better due to the fact 
+that the sampling was done locally on the multisound
+as opposed to using a seperate PC as was done on the first two
+Proteus packs. This has yielded some very quiet and crisp samples.
+
+Although the samples are in .wav format, they can be ported
+to .smp or almost any other using a program such as Goldwave.
+
+
+Technical Specs:
+
+All samples are 44.1kHz, 16 bit mono and were created by playing
+different notes on the multisound, and capturing them live to disk 
+using the Multisound's own digital audio sampler. Post editing was 
+done to optimize gain and remove the dead space as well as to keep 
+the samples reasonable small.
+
+
+This archive contains the following samples:
+
+File Name           Size      Proteus 1/XR Patch Name
+---------           ------    -----------------------
+
+BASSATTK WAV        43,408    Attack Bass
+BASSMTRX WAV        48,358    Matrix Bass
+BASSRAP  WAV        44,392    Rap Bass
+BASSSCRY WAV        65,954    Scary Bass
+BASSTNDR WAV        81,552    Thunder Bass
+BLUEICE  WAV       146,796    Blue Ice
+DECAY    WAV        83,024    Decay Pad
+DIRTYORG WAV        78,006    Dirty Organ
+DRKWORLD WAV        91,348    Dark World
+EMPYREAN WAV        69,304    Empyrean
+FUNQUE   WAV        44,530    Fun Que
+KYOTO    WAV        50,784    Kyoto Forest
+LUNARLND WAV       131,662    Luner Lander
+MDICNDRM WAV        44,530    Medicine Drum
+MINIMGBS WAV        63,566    MiniMoogBass
+MTN4V    WAV       154,742    Mutations4V
+MUTES    WAV        22,160    Stereo Mutes
+MYTHICAL WAV        85,358    Mythical Pad
+NATIVEPR WAV        53,386    Native Power
+NONORGNC WAV        66,370    Non-Organic
+SNTHPICK WAV        45,444    Synth Pick
+VRBFLUTE WAV        52,880    Verb Flute
+WHTVEIL  WAV        49,906    White Veil
+
+
+Hope you find them useful.
+
+--
+        [ Sam Eassa - eassa@execpc.com - Milwaukee, Wisconsin USA ]
+

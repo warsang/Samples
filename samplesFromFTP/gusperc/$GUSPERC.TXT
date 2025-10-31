@@ -1,0 +1,107 @@
+Description: High quality Percussion patches for the GUS
+Keywords: Percussion patches 16-bit 44.1kHz .PAT format
+Author: eassa@earth.execpc.com (Hussam Eassa)
+Uploader: eassa@earth.execpc.com (Hussam Eassa)
+
+Hello everyone.
+
+This is a complete replacement percussion patch set for the GUS 
+extracted from the Roland SCC-1 Sound Canvas MIDI synthesizer.
+ 
+This collection is only General MIDI percussion instruments. 
+The patches employ the Gravis names for the coresponding factory
+set. All that is needed is to directly replace your current percussion
+.PAT files with this set. No chances to the .cfg file are necessary.
+
+
+Technical Specs:
+
+All patches are made from 44.1kHz, 16 bit samples. The samples were 
+created by playing different percussion notes on the Roland SCC-1,
+and capturing them live using a Turtle Beach Multisound. Post editing was 
+done to optimize gain and remove the dead space. The samples also were
+shortened as much as possible to conserve GUS memory. This meant that 
+some samples were not allowed to "ring out" as much as I would have liked.
+
+What follows is a listing of the contents of this archive. You need 
+to save your original .pat files of the same name to a different 
+directory and replace them with this IMHO much better set.
+
+
+File Name        Size         General MIDI Name
+------------     -------      --------------------
+
+$GUSPERC TXT       4,274      This File
+AGOGOHI  PAT       9,865      High Agogo
+AGOGOLO  PAT      13,017      Low Agogo
+BELLTREE PAT      66,187      Bell Tree
+BONGOHI  PAT      10,017      High Bongo
+BONGOLO  PAT       8,857      Low Bongo
+CABASA   PAT       6,165      Cabasa
+CASTINET PAT       3,621      Castinets
+CLAPS    PAT      18,821      Handclap
+CLAVE    PAT       4,925      Claves
+CONGAHI1 PAT       5,437      Mute Hi Conga
+CONGAHI2 PAT      12,129      Open Hi Conga
+CONGALO  PAT      16,089      Low Conga
+COWBELL  PAT      10,829      Cowbell
+CUICA1   PAT      18,565      Closed Cuica
+CUICA2   PAT      25,697      Open Cuica
+CYMBELL  PAT      88,309      Ride Bell
+CYMCHINA PAT     107,489      Chinese Cymbal
+CYMCRSH1 PAT      72,563      Crash Cymbal 1
+CYMCRSH2 PAT      72,761      Crash Cymbal 2
+CYMRIDE1 PAT      72,563      Ride Cymbal 1
+CYMRIDE2 PAT      72,361      Ride Cymbal2
+CYMSPLSH PAT      72,361      Splash Cymbal
+GUIRO1   PAT       4,287      Short Guiro
+GUIRO2   PAT      26,437      Long Guiro
+HIGHQ    PAT       3,059      High Q      
+HIHATCL  PAT       8,441      Closed High Hat
+HIHATOP  PAT      88,065      Open High Hat
+HIHATPD  PAT       6,865      Pedal Hihat
+JINGLES  PAT      39,137      Jingle Bell
+KICK1    PAT       8,361      Acoustic Bass
+KICK2    PAT       9,733      Bass Drum 1
+MARACAS  PAT       6,851      Maracas
+METBELL  PAT      48,483      Metronome Bell
+METCLICK PAT       7,113      Metronome Click
+SCRATCH1 PAT      11,517      Scratch Push
+SCRATCH2 PAT      17,047      Scratch Pull
+SHAKER   PAT       3,631      Shaker
+SLAP     PAT      19,931      Slap
+SNARE1   PAT      24,665      Acoustic Snare
+SNARE2   PAT      18,341      Electric Snare
+SQRCLICK PAT         595      Square Click
+STICKRIM PAT       6,417      Side Stick
+STICKS   PAT      18,193      Sticks
+SURDO1   PAT      19,055      Closed Surdo
+SURDO2   PAT     146,391      Open Surdo
+TAMBORIN PAT      15,639      Tambourine
+TIMBALEH PAT      18,173      High Timbale
+TIMBALEL PAT      20,011      Low Timbale
+TOMHI1   PAT      21,857      High Tom
+TOMHI2   PAT      22,029      Hi-Mid Tom
+TOMLO1   PAT      31,689      High Floor Tom
+TOMLO2   PAT      36,077      Low Floor Tom
+TOMMID1  PAT      26,789      Low-Mid Tom
+TOMMID2  PAT      29,133      Low Tom
+TRIANGL1 PAT       8,439      Mute Triangle
+TRIANGL2 PAT      44,179      Open Triangle
+VIBSLAP  PAT      44,971      VibraSlap
+WHISTLE1 PAT       8,449      Short Whistle
+WHISTLE2 PAT      33,711      Long Whistle
+WOODBLK1 PAT       8,031      High Wood Block
+WOODBLK2 PAT      11,021      Low Wood Block
+
+Hope you find them useful.
+
+Hussam Eassa
+7/9/95
+
+--
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=
+| Sam                       |
+| eassa@earth.execpc.com    |
+| Milwaukee, Wisconsin  USA |
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=

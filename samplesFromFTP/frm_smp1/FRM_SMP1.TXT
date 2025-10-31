@@ -1,0 +1,28 @@
+Farmer's IT SamplePack #1
+(c) 1997 Farmer AKA Louis Gorenfeld (gorenfeld@vrone.net)
+
+Questions and Answers
+
+Q: How do I use the samples if I don't have Impulse Tracker?
+A: There are two ways to do this.  First, you could use a ripping
+   program.  Second, you could load it up in ModPlug Player and save it
+   in a format of your choosing.
+
+Q: Why didn't you save it in XM?  Then we could all enjoy it!
+A: For many reasons... these instruments are optimized for the IT format,
+   meaning that they use cool things like NNA's and swings.  Also, I never
+   learned how to use Fast Tracker 2.
+
+Q: Do you hate FT2?
+A: No, not at all.  I appreciate the technology of FT2, as well as the hard
+   work that went into making it and the great musicians that use that
+   editor.  In fact, IT might not have had some of its features if it
+   weren't for FT2.
+
+Q: What quality are these samples?
+A: Most are 44khz, 16-bit, but a few are slightly lower quality.
+
+Please give credit when using these instruments!
+
+NOTE : Many of these sound incorrect when played as a sample.  Use instrument
+       mode for best effect.

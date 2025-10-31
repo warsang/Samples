@@ -1,0 +1,71 @@
+        F_LOOPS1
+    (No, it don't mean Fruit Loops. The "F" is for FAC)
+
+
+Hi, this is Ganzo from FAC Software. I have listened to several songs
+and most of them have something in common: the damn drum loop.
+
+So that's why I'm now releasing some basic drum loops for anyone who
+don't want to worry too much about the drumline and rather focus in
+the main melody.
+
+I only released 4 basic loops because this is just a test. That means,
+if I get enough responses, then I'll keep releasing original drum and
+bass loops. If I don't get any responses, then I'll think that this
+release was a mistake and I won't release more of this samples.
+
+OK, now... the files are these:
+
+        F_LOOPS1.TXT : Whaddajaknow?
+         ^
+       (don't you hate underscores?)
+
+        A-1.XI  - A nice dance loop
+        A-2.XI  - Fill in for the dance loop
+
+        B-1.XI  - A smooth not-too-underground rap loop
+        B-2.XI  - A VERY simple fill in for B-1
+
+        C-1.XI  - A slow-tempo'ed loop
+        C-2.XI  - Whatchuthink?
+
+        D-1.XI  - An energic hip hop loop
+        D-2.XI  - The same as above, but less energic
+        D-3.XI  - A made-in-a-hurry fill in for the D loops
+
+
+... that's about it. I hope you could use these samples. Now, don't just
+put the loops in your song. Be creative and add some claps, toms, fill-ins,
+silences & intros, etc... These loops are just meant to be the base rhythm
+of a song. Put everything you want above them.
+
+If you like the samples and do anything with them, or want me to release more
+samples, please contact me in the following address:
+
+        ganzo@galia.fc.uaslp.mx
+                             ^
+                             |_____ That's right. Mexico rulz!
+
+
+Now... technical stuff about the samples:
+
+All the samples are in XI format. Recorded at 22 Khz and 16 bits. I composed
+the loops in FastTracker II and then convert them to WAV using the Mod4Win
+phat program and then back to .XI using CONVERT.EXE by I don't remember who.
+
+Special Thanx to these people:
+
+        
+        Guys that provided the samples: Zauron (wattup?)
+                                        Sam Eassa
+                                        Tek
+                                        Whoever released the TYPHOON samples
+
+        Guys that provided the software: Vogue & Mr. H
+                                         The Mod4Win guys
+                                         The CONVERT.EXE guy.
+
+I'm sorry about the names. I got a baaaaad memory.
+
+Peace. Enjoy the samples.
+

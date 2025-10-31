@@ -1,0 +1,58 @@
+~StOtE's LOOP SET~ volume 1
+----------------------------
+ (c) Andrew Sargeant 1996
+----------------------------
+
+This is the first set of loops i have released, some i like, some i
+don't ... but i'm sure there's something there for most people ...
+This collection is not focused on any particular style, future sets
+will include techno, industrial, electronic, funk etc... whatever i
+come up with. 
+
+Feel free to distribute these files, but please credit me as the
+creator. Please don't use them for commercial purposes. You may find 
+yourself with legal problems if you do so, some sounds are under 
+copyright to their original artists. You may remix these loops, but
+please credit me as the original creator.
+
+All loops are 44khz mono 8 bit PCM WAV files and were created for use in
+Impulse Tracker or any tracker that is free of the 64k limitation. You'll 
+notice some are cut at the correct loop point while others have reverb ring 
+out at the end, this is for IT's 'continue' NNA. Some of the loops failed 
+to sound correct if they were cut. By enabling the 'continue' NNA the reverb
+continues naturally instead of dropping out as the sample loops over.
+
+Future collections will be made up of *all* original sounds from my library 
+that i have recorded with my band and in my spare time. Some were recorded in a
+a studio, while others were recorded on DAT from certain places (one being an
+old pottery works). For my all original collections i'll distribute the 8 bit 
+versions for free. If you want the 16 bit version for commercial use i ask for
+a small (undecided) fee.
+
+You can contact me on : stote@peninsula.starway.net.au to inquire about this.
+If you require specific loops i'd be happy to create them on request.
+
+Sounds are from : the 'Earth Tribe Rhythms' CD (only one). All other
+bongos are played by me and my band, one of the loops is courtesy of my 
+mouth and some snare and bass hits are from my drummer, Scott Debanardi.
+Other single hits are from the Gravis Pro Patches collection as well as 
+various drum machines (Boss and Korg) ... These can be found on the official 
+Gravis Website (http://www.gravis.com). The future version of Impulse Tracker 
+will support .PAT files, so you won't need a Gravis card to use them. There 
+is also a conversion program (PatRip) which converts .PATs to .WAVs and
+.SMPs for now ...
+
+Future loop collections can be down loaded from http://www.citenet.net/noise
+(this is also where all my music is distributed from, as well as a whole heap
+of other talented MOD musicians work)
+Or wherever else they end up! :)
+
+that's about all ... enjoy ... :)
+oh yeah, Impulse Tracker roqs ... so USE IT! ...
+
+--- StOtE / NOISE / Catch22 / TpT ---
+
+
+
+
+

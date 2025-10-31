@@ -1,0 +1,38 @@
+Hello trackers and other guys!
+
+Here is a huge instrumental set for your FT2 tracking experience!
+(hehe, you can use it in IT too...)
+
+Why it's so large you ask? Here is the answer... Listen to the MP3 demo
+sequence and guess where this atmospheric and rich sound originated from?
+Yes! You are right--it is from this huge instrumental pack!
+
+USE IT FREELY!
+
+
+Technical info:
+Many of these instruments contain 48kHz, 44.1kHz and 30kHz samples.
+Of course, every sample is a 16 bit one! Sounds good, yeah?
+Second, these samples were originally in mono, so I've done some
+work converting them to a hall-sounding stereo ones.
+
+Where all this originated from? Good question... They all are from
+Roland S-770 sample disks, distributed by sgroup. Original disks are freely
+available on ftp://lotus.uwaterloo.ca/pub/sgroup/samples/Roland/.
+Thanks to the maintainer of this cool site!
+
+Techinfo for DEMOSEQ.MP3.
+This one was tracked in FT2 (I've used about 20 channels).
+Ok, ok, it's not that good... It's just a simple demo!
+Then, I've converted resulting XM to a WAV using XM2WAV05 by Digisnap.
+Hey! This is a good converter, that uses spline interpolation! Check it
+out, it's available on Hornet's site. Finally, I've converted this WAV to
+a 112000 baud stereo MP3. No other magic was done. :)
+
+
+Always yours,
+  PiCoder // Seaber Designs (Aleksey V. Vaneev).
+
+  seaber@geocities.com
+
+  Write feedbacks!

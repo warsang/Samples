@@ -1,0 +1,59 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                          Big Series - 44.1kHz 16 bit!
+                         SAMPLES FROM THE WALDORF PULSE
+                            Email: cgould@gate.net
+
+The Waldorf Pulse is a classy, 3-VCO analog bass synthesizer with some
+nice acid-tweaking knobs if done right. It can do great Minimoog sounds,
+screeching leads, and more.
+
+I've made about 30 samples.
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+Some are homemade, some are not, some are factory patches. Zip as usual
+indicates which zip file it is in. Number indicates patch number (out of
+100). Most are multisampled for that analog feel if you split up the
+waveform. Lots of bass sounds - that's what the Pulse is good for. (:
+
+Sound name      (zip)   Notes
+-----------------------------------------------------------------------
+001.WAV         B       Two notes of a low humming synth
+003.WAV         D       Flute-like Minimoog patch on the Pulse
+006.WAV         H       Fast harsh analog bass
+008.WAV         H       Several notes of a good analog bass sound
+009.WAV         F       Analog brass - four notes
+010.WAV         E       Heavy filter lead sound - four notes
+011.WAV         A       Waldorf Pulse pseudoacid pattern
+013.WAV         C       Playing with the filter of a bass note
+015.WAV         E       Hey, the Orb used this nice bass sound. (:
+016.WAV         F       Heavier analog bass
+020.WAV         G       Ow on a synth. Three notes.
+022.WAV         F       Analog chord.
+023.WAV         D       Analog lead with portamento.
+024.WAV         H       Softer analog brassy lead sound
+026.WAV         B       Low phasing bass sound
+027.WAV         H       It goes up, it goes down...
+028.WAV         D       Harsh, filter-opened sound
+029.WAV         H       A soft little analog note arpeggiated
+036.WAV         C       FX arpeggiation
+040.WAV         G       Three VCOs = three chord notes.
+042.WAV         A       Fat lead with portamento
+047.WAV         G       Fatness with class
+051.WAV         E       The filter brings in a classic sound
+052.WAV         E       Pulse goes videogame-like!
+066.WAV         B       Hi-resonance acidy patch here!
+076.WAV         H       Mysterious notes
+085.WAV         G       Fast arpeggiation with a fast note
+089.WAV         C       Analog percussion sounds
+092.WAV         G       Weird sounding chord
+093.WAV         F       Doing the bass it does again
+
+TOTAL WALDORF PULSE SAMPLES: 30 (26024734 bytes)
+-----------------------------------------------------------------------

@@ -1,0 +1,32 @@
+TITLE    :voxjag1.zip		
+AUTHOR   :Linbog
+GROUP    :
+EMAIL    :linbog@yahoo.com
+
+--DESCRIPTION-BEGIN------------------------------------------------------------
+
+VOX JAGUAR ORGAN
+4.1 khz 16 bit
+.wav format
+
+These are from a late '60's organ- The Vox Jaguar.. which I'm borrowing
+from a very kind friend.  The samples could be of better quality but
+the organ's keys play at a very low level so I did my best to correct
+this and take out the noise in Sound Forge.  They turned out better
+than I thought they would.
+
+There are seven .wav files, some in stereo, sampled at C1, F1, B1,
+C2, G#2, C3, and G#3 with the first octave being the
+bass samples (white keys =) of the organ. I would have sampled
+the high octave but unfortunately it's screwed up and plays
+the same octave as the one above it.
+
+Enjoy these.. this organ's a classic.
+Give back to the sampling community by making your own sets. =)
+
+Email: Linbog@yahoo.com
+
+
+
+
+--DESCRIPTION-END--------------------------------------------------------------

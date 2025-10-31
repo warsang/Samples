@@ -1,0 +1,9 @@
+sampled by: Myno / d-Liquid
+   nr.smp : 37 files
+   samples: Roland W-30 prc.hits
+    source: 1992 3.5 "sample,discs"
+
+"samples from"
+Latin percussion
+Brazilian percussion
+Rock percussion

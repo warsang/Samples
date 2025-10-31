@@ -1,0 +1,90 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                         Big Series I - 44.1kHz 16 bit!
+                        PART 2 OF 4: ROLAND D-50 SAMPLES
+                            Email: cgould@gate.net
+
+SAMPLES TAKEN FROM:
+Korg X5 - A classy little sample-based synthesizer.
+Roland D50 - The king of the late 80s - LA synthesis and PCM samples
+Yamaha DX27 - 4-op FM, the little cousin of the DX7
+Roland Juno 106 - Analog-based synthesizer with thundering bass
+
+This is the first sample pack made for those with samplers, not those
+who simply are trackers. 100 samples are in this pack in total, 25 from
+each keyboard (sorry, there's no room for more! You don't want the pack
+to be THAT big, do you? (: ). All samples are default sampled at C3
+unless noted in the text, and recorded at 44.1khZ, 16 bit on a Pro Audio
+Spectrum 16. Some of these samples you won't find anywhere else, btw. (:
+Sorry, no loop points or envelopes are provided. Sample notes are noted
+below each sample.
+
+I'm probably not going to do anymore "little" sample packs; these will
+have to do, eh? (:
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+SOUNDS FROM THE ROLAND D50: (Note: Default sample point is C3)
+
+Card sounds taken from ROM card 01. Internal from my own memory.
+
+Zip letter refers to zip file the sample is in (ie, a sample labeled A
+will be in s16d50a.zip)
+
+Sound name(zip) Patch                   Notes
+-----------------------------------------------------------------------
+d50-01.wav B    I15 - Glass Voices      Ethereal voice patch; sampled at
+                                        C2
+d50-02.wav E    I21 - Lead Axel F       Lead type synthesizer; three
+                                        note hits, of varying velocity;
+                                        CUSTOM PATCH
+d50-03.wav B    I34 - BrassSciFiStrings Brass pad with spacey synth;
+                                        CUSTOM PATCH
+d50-04.wav A    I48 - DigitalNativeDnce Famous patch with dance sweep at
+                                        end
+d50-05.wav C    I47 - Spacious Sweep    Nice sweeping patch; sampled at
+                                        C1, full volume
+d50-06.wav D    I41 - Fantasia          The standard New Age electronic
+                                        sound; sampled at C2
+d50-07.wav B    I65 - Nylon Atmosphere  Nice chink sound
+d50-08.wav C    I76 - Soundtrack        Very common fifth-breathy synth
+                                        patch; sampled at C2
+d50-09.wav E    I83 - Orient XPRESS     Oriental-sounding fifth echoing
+                                        lead patch; CUSTOM PATCH
+d50-10.wav E    I73 - Ethnic Fifths     Ethnic leadish type sound;
+                                        release triggers portamento
+d50-11.wav B    I74 - Stringz and Bellz Just as it says; 2 volumes
+                                        recorded
+d50-12.wav D    I75 - ISIS              Ethereal, Soundtrack-like fifth
+                                        patch; sampled at C2
+d50-13.wav E    I44 - Pizzagog          A good orchestral pizz sample
+d50-14.wav D    I45 - Fried Nintendo    Random electronic blippers and
+                                        bloppers; CUSTOM PATCH
+d50-15.wav C    I77 - O K Chorale       Deep choral-sounding synth;
+                                        sampled at C2
+d50-16.wav A    I67 - Schmoo Me         Neat schmooie solo sound; CUSTOM
+                                        PATCH
+d50-17.wav D    I66 - Shakuhuchi        Standard New Age type whistle
+                                        sound
+d50-18.wav F    C84 - Vox Harmonium     Sweeping pad sound, with some
+                                        aftertouch FX applied to the end
+                                        of the sample; sampled at C1
+d50-19.wav C    C83 - Thinful           Odd chorus sound; sampled at C2
+                                        and C3
+d50-20.wav E    C81 - Star Peace Chorus Nice female vocal sound
+d50-21.wav E    C62 - Synth Lead 2      Beepy lead sound; sampled three
+                                        times at various volumes
+d50-22.wav E    C18 - Baroque Strings   Strings from the era of Bach
+d50-23.wav D    C15 - Deep String Ens.  Deep, forboding strings, sampled
+                                        at C1
+d50-24.wav D    I51 - Aqua              A lute with water in the
+                                        background; CUSTOM
+d50-25.wav A    I56 - Clock Factory     FX loop patch; sampled at C2
+
+TOTAL ROLAND D-50 SAMPLES: 25 (18839688 bytes)
+-----------------------------------------------------------------------

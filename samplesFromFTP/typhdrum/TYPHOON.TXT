@@ -1,0 +1,50 @@
+                    THE SOUNDWAVE MUSIC SAMPLE COLLETION!
+                             Samples for samplers
+                         Big Series I - 44.1kHz 16 bit!
+                      PACK 5: MORE ROLAND JUNO 106 SAMPLES
+                      With bonus drum samples from Typhoon!
+                            Email: cgould@gate.net
+
+SAMPLES TAKEN FROM:
+Roland Juno 106 - Analog-based synthesizer with thundering bass
+Yamaha TX16W - Sampler with Typhoon OS; the modulation makes synthesis
+               possible.
+
+This is Typhoon's nice sounding TR-808 like kit uploaded at the
+same time as the second Juno pack. Just completing your techno needs,
+that's all. (:
+
+Feel free to email me about these samples, especially if you use them.
+
+My email address is:
+cgould@gate.net.
+
+Distribute these samples freely.
+
+SOUNDS FROM THE YAMAHA TX16W:
+
+These sounds were taken from the Yamaha TX16W sampler, using an
+alternative OS called Typhoon. On the OS is a demo disk with a nice
+808-style drum kit, made only by modulating primitive (sine, noise,
+etc.) wave samples. Enjoy the pack. (:
+
+Sound name              Notes
+-----------------------------------------------------------------------
+typhoon1.wav            Tom / High BD sound
+typhoon2.wav            Noisy snare noise/drum combo
+typhoon3.wav            Little hit
+typhoon4.wav            Short shaker
+typhoon5.wav            Long shaker
+typhoon6.wav            Island hit sound
+typhoon7.wav            Decaying dance hit
+typhoon8.wav            The same dance hit, lower
+typhoon9.wav            Cymbal 1
+typhoona.wav            Cymbal 2
+typhoonb.wav            Cymbal 3
+typhoonc.wav            Snare 1
+typhoond.wav            Snare 2
+typhoone.wav            Claps
+typhoonf.wav            Boom drum
+
+TOTAL TYPHOON SAMPLES: 15 (538558 bytes w/ text file)
+-----------------------------------------------------------------------

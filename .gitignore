@@ -1,0 +1,5 @@
+# Ignore all files in subdirectories except for .wav files
+*/*
+!*/
+!*/*.wav
+!*/*.WAV

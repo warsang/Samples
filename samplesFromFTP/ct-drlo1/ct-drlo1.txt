@@ -1,0 +1,30 @@
+The file ct-drlo1.zip contains the following;
+(All samples are Mono, 44.1Khz .WAV files)
+
+  filename                origin of drumloop
+------------    --------------------------------------
+ct-antx1.wav _. anthrax [beavis & butthead experience]
+ct-antx2.wav _. anthrax [beavis & butthead experience]
+ct-come2.wav _. beavis & butthead, "come to butthead"
+ct-danzi.wav _. danzig [signs in the key of X]
+ct-dustb.wav _. dust brothers/korn [spawn soundtrack]
+ct-icey1.wav _. dj icey
+ct-icey2.wav _. dj icey
+ct-icey3.wav _. dj icey
+ct-icey4.wav _. dj icey
+ct-icey5.wav _. dj icey
+ct-icey6.wav _. dj icey
+ct-outla.wav _. red hot chili peppers [out in l.a.]
+ct-prdgy.wav _. the prodigy [fat of the land]
+ct-rdmc1.wav _. run dmc [beavis & butthead experience]
+ct-rdmc2.wav _. run dmc [beavis & butthead experience]
+ct-smixa.wav _. sir mix-a-lot, "monsta mac"
+ct-sofm1.wav _. sisters of mercy [floodland]
+ct-sofm2.wav _. sisters of mercy [floodland]
+
+Chris Eldred (cenotaph) _. April 1998
+celdred@usa.net
+cenotaph@dhv.org
+cenotaph@dope.org
+www.pak.org/cenotaph        or try
+www.fortunecity.com/tinpan/aphex/352/

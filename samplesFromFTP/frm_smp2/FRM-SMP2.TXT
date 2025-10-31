@@ -1,0 +1,18 @@
+Farmer's IT Sample Pack #2
+contact me at gorenfeld@vrone.net
+---------------------------------
+This time, every sample is unreleased!  Check it out :)
+
+Notes on using the instruments
+------------------------------
+Crowd noises : Each crowd noise comes in a left and a right version
+(that's actually not too accurate as the sound bounces around) ... to get a
+really nice crowd effect, put them both on seperate tracks ... offset one of
+them by 20 (O20) and there you have it!  Try also mixing the wildcrowd with
+the normalcrowd.
+
+Echo bass : When playing low notes, offset the sample so the timing is better.
+
+Demosong : Listen to it, study it.
+
+Note : To use with other trackers, rip out the samples.

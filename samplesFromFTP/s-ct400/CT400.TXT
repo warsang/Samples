@@ -1,0 +1,57 @@
+- Casio CT-400 Sample Pack -
+
+These samples are not incredibly high quality, but since most of
+the people I know who track can't afford expensive equipment to
+make samples with, here are a few to mess around with. They are
+in Impulse Tracker sample format, recorded at 16kHz, 16-bit. The
+ct-400 is a cheap keyboard at best, but it makes noises, so I hope
+you can have fun with these...         -stash
+
+Sample List:
+
+Sample Name      Description
+
+ct400.1          Synth Res
+ct400.2          Slap Bass
+ct400.3          Piano
+ct400.4          Elec Bass
+ct400.5          Open Hihat
+ct400.6          Bass Drum
+ct400.7          Sine Bass
+ct400.8          Flute
+ct400.9          Strings
+ct400.10         Sample Percussion
+ct400.11         Flute 3
+ct400.12         Tom Echo
+ct400.13         Tom Echo 2
+ct400.14         Flute 2
+ct400.15         Nice Sound :)
+ct400.16         Ping
+ct400.17         Ping 2
+ct400.18         Silly Noise
+ct400.19         Laser
+ct400.20         Silly Noise 2
+ct400.21         Silly Noise 3
+ct400.22         Hihat
+ct400.23         Snare
+ct400.24         Wood Hit
+ct400.25         Horn Lo
+ct400.26         Horn Hi
+ct400.27         Acid Trickle Loop
+ct400.28         Acid Trickle Loop 2
+ct400.29         Acid Reverb Noise
+ct400.30         Alarm
+ct400.31         Laser 2
+ct400.32         Pipe Organ
+ct400.33         Synth Bass
+ct400.34         Ride Cymbal
+ct400.35         Snare 2
+ct400.36         Violin Vib
+
+
+-- spaceinvaders96 --
+
+Please call these fine boards for more si stuff.. 
+
+Moo N' 0ink - Si WHQ - 847.256.5928 - Run by stash
+Fall From Grace - Si - 847.490.0172 - Run by Kobb
