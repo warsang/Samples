@@ -145,6 +145,6 @@ foreach ($key in $samples.Keys) {
 }
 
 
-$finalSamples['_base'] = 'https://raw.githubusercontent.com/warsang/Samples/main'
+$finalSamples['_base'] = 'https://raw.githubusercontent.com/warsang/Samples/main/'
 
 $finalSamples | ConvertTo-Json -Depth 10 | Out-File -Encoding utf8 strudel.json

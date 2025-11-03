@@ -4155,7 +4155,7 @@
                  "st-xx/ST-11/well_done.wav",
                  "st-xx/ST-11/yeah.wav"
              ],
-    "_base":  "https://raw.githubusercontent.com/warsang/Samples/main",
+    "_base":  "https://raw.githubusercontent.com/warsang/Samples/main/",
     "anpk2":  [
                   "samplesFromFTP/anpk2/BRB1.WAV",
                   "samplesFromFTP/anpk2/BRB10.WAV",
